@@ -1,0 +1,114 @@
+{
+  "oldCount": 42955.4,
+  "newCount": null,
+  "conComment": "",
+  "counter": {
+			"id": 2,
+			"name": "Geb. 01 Strom",
+			"number": "4082281",
+			"counterConst": 20.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "Messwandelzähler",
+			"unit": "kWh",
+			"room": {
+					"id":280,
+					"roomName": "SO_LR-01.U101"
+					}
+			}
+}
+{
+  "oldCount": 6311.0,
+  "newCount": 0.0,
+  "conComment": "",
+  "counter": {
+			"id": 1,
+			"name": "Geb. 01 Wasser",
+			"number": "21233011",
+			"counterConst": 1.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "",
+			"unit": "cbm",
+			"room": {
+					"id": 32,
+					"roomName": "SO_LR-01.U103.1"
+					}
+			}
+}
+{
+  "oldCount": 3682320.0,
+  "newCount": 0.0,
+  "conComment": "",
+  "counter": {
+			"id": 12,
+			"name": "Geb. 01 Wmz.",
+			"number": "94-8456261",
+			"counterConst": 1.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "Fabrikat: Ista Typ: Sensonic Plus W1P",
+			"unit": "kWh",
+			"room": {
+					"id": 29,
+					"roomName": "SO_LR-01.U102"
+					}
+			}
+}
+{
+  "oldCount": 92612.0,
+  "newCount": 0.0,
+  "conComment": "",
+  "counter": {
+			"id": 5,
+			"name": "Geb. 02 Strom",
+			"number": "19215248",
+			"counterConst": 50.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "Messwandelzähler",
+			"unit": "kWh",
+			"room": {
+					"id": 142,
+					"roomName": "SO_LR-02.U111"
+					}
+			}
+}
+{
+  "oldCount": 11295.0,
+  "newCount": 0.0,
+  "conComment": "",
+  "counter": {
+			"id": 3,
+			"name": "Geb. 02 Wasser Liegenschaft",
+			"number": "312142",
+			"counterConst": 1.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "Haupteinspeisung Geb. 2",
+			"unit": "cbm",
+			"room": {
+					"id": 142,
+					"roomName": "SO_LR-02.U111"
+					}
+			}
+}
+{
+  "oldCount": 1630.47,
+  "newCount": 0.0,
+  "conComment": null,
+  "counter": {
+			"id": 13,
+			"name": "Geb. 02 Wmz.",
+			"number": "3774438494-8456261",
+			"counterConst": 1.0,
+			"broken": false,
+			"newCounter": false,
+			"comment": "Fabrikat: Techem Typ: classic S II",
+			"unit": "MWh",
+			"room": {
+					"id": 136,
+					"roomName": "SO_LR-02.U105"
+					}
+			}
+}
